@@ -4,6 +4,6 @@ goog.require('cljs.core');
 goog.require('adzerk.boot_cljs_repl');
 goog.require('adzerk.boot_reload.init609');
 goog.require('my_reagent.core');
-goog.require('my_reagent.reagent');
+goog.require('my_reagent.tic_tac_toe');
 
 //# sourceMappingURL=main6658.js.map

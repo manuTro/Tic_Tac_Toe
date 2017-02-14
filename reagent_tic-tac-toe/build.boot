@@ -13,6 +13,7 @@
                  [weasel "0.7.0"]                      ;; needed by bREPL
                  [org.clojure/tools.nrepl "0.2.12"]    ;; needed by bREPL
                   [reagent "0.6.0-alpha2"]
+                    [org.clojars.magomimmo/domina "2.0.0-SNAPSHOT"]
                  ])
 
 (require '[adzerk.boot-cljs :refer [cljs]]
